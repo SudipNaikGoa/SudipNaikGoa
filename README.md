@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics
 - 🌱 I’m currently learning MSc Mathematics
 - 💞️ I’m looking to collaborate on Python Programming
-- 📫 How to reach me sudipnaik839@gmail.com
+- 📫 You can reach me through sudipnaik839@gmail.com
 
 <!---
 SudipNaikGoa/SudipNaikGoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
